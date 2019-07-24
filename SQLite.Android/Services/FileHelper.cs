@@ -2,7 +2,7 @@
 using System.IO;
 using SQLite.Droid.Services;
 using SQLite.Services;
-using Xamarin.Forms
+using Xamarin.Forms;
 
 [assembly:Dependency(typeof(FileHelper))]
 namespace SQLite.Droid.Services
